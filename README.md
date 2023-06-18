@@ -1,5 +1,5 @@
-[![hookyd logo](http://nano-assets.gopagoda.io/readme-headers/hookyd.png)](http://nanobox.io/open-source#hookyd)
- [![Build Status](https://travis-ci.org/nanopack/hookyd.svg)](https://travis-ci.org/nanopack/hookyd)
+[![hookyd logo](http://microbox.rocks/assets/readme-headers/hookyd.png)](http://microbox.cloud/open-source#hookyd)
+ [![Build Status](https://github.com/mu-box/hookyd/actions/workflows/ci.yaml/badge.svg)](https://github.com/mu-box/hookyd/actions)
 ## Hookyd
 
 Small, api-driven utility to run hookit hooks on a remote machine.
@@ -20,10 +20,10 @@ Was not intended to run on a public network. Will need an authentication layer b
 
 ### Contributing
 
-Contributions to the hookyd project are welcome and encouraged. hookyd is a [Nanobox](https://nanobox.io) project and contributions should follow the [Nanobox Contribution Process & Guidelines](https://docs.nanobox.io/contributing/).
+Contributions to the hookyd project are welcome and encouraged. hookyd is a [Microbox](https://microbox.cloud) project and contributions should follow the [Microbox Contribution Process & Guidelines](https://docs.microbox.cloud/contributing/).
 
 ### Licence
 
-Mozilla Public License Version 2.0
+This project is released under [The MIT License](http://opensource.org/licenses/MIT).
 
-[![open source](http://nano-assets.gopagoda.io/open-src/nanobox-open-src.png)](http://nanobox.io/open-source)
+[![open source](http://microbox.rocks/assets/open-src/microbox-open-src.png)](http://microbox.cloud/open-source)
